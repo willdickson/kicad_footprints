@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name smd_jst_ph_2pin)(type KiCad)(uri ${KIPRJMOD}/smd_jst_ph_2pin.pretty)(options "")(descr ""))
+)
